@@ -24,4 +24,7 @@ class A {
   public void MA2() {
     cout << "MA2" << endl;
   }
+  public void MA3() {
+    cout << "Alteração a classe A partir do clone" << endl;
+  }
 };
