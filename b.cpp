@@ -24,4 +24,8 @@ class B {
     public void MB2() {
       cout << "MB2" << endl;
     }
+
+    public void MB3() {
+      cout << "MB3" << endl;
+    }
   };
