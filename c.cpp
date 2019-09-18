@@ -27,4 +27,8 @@ class C {
   public void MC2() {
     cout << "MC2" << endl;
   }
+
+  public void MC3() {
+    cout << "MC3" << endl;
+  }
 };
